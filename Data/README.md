@@ -13,6 +13,6 @@ This folder contains the datasets used for the capstone project **"Optimizing Ti
      - `oil.csv`: Daily oil prices.
 
 2. **Weather Data**
-   - Source: [VisualCrossing] (https://www.visualcrossing.com/weather/weather-data-services)
+   - Source: [VisualCrossing](https://www.visualcrossing.com/weather/weather-data-services)
    - Files:
      - `WeatherData.csv`: Contains weather attributes such as temperature, wind speed, and humidity.
