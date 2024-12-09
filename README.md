@@ -10,7 +10,7 @@ This study explores advanced modeling techniques for time-series sales forecasti
 ---
 ## Analysis Code
 The analysis was performed in Python using Google Colab. You can access the code and run it directly in Colab using the following link:
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://raw.githubusercontent.com/GonBla/MSADS_CapstoneProject/main/Code/ColabNotebook.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/GonBla/MSADS_CapstoneProject/blob/main/Code/ColabNotebook.ipynb)
 
 ---
 ## Authors
