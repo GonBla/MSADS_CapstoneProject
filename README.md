@@ -16,7 +16,12 @@ The data used in this project comes from Kaggle and Visual Crossing. More detail
 The analysis was performed in Python using Google Colab. The code is in the  [Code Folder](Code/) and can be accessed and run directly in Colab using the following link:
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GonBla/MSADS_CapstoneProject/blob/main/Code/ColabNotebook.ipynb)
 
+---
+## Results
 
+The study demonstrated that XGBoost was the most effective model for capturing sales patterns, achieving an R² of 0.9261 and significantly outperforming traditional methods like ARIMA and linear regression. Key findings highlight the impact of external factors, such as oil prices and weather conditions, on retail sales.
+
+![XGBoost predition](Images/ActualVSPredictedSales.png)
 ---
 ## Authors
  - Subin An (subinan@sandiego.edu)
